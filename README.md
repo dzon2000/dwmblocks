@@ -1,6 +1,6 @@
 # dwmblocks
 Modular status bar for dwm written in c.
-# usage
+# Usage
 To use dwmblocks first run 'make' and then install it with 'sudo make install'.
 After that you can put dwmblocks in your xinitrc or other startup script to have it start with dwm.
 # Build
@@ -10,7 +10,7 @@ This build contain blocks for:
 * CPU temp
 * Memory
 * Date and time
-# patches
+# Patches
 Here are some patches to dwmblocks that add features that I either don't want to merge in, or that require a dwm patch to work.
 I do not maintain these but I will take pull requests to update them.
 <br>
