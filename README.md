@@ -11,7 +11,4 @@ This build contain blocks for:
 * Memory
 * Date and time
 # Patches
-Here are some patches to dwmblocks that add features that I either don't want to merge in, or that require a dwm patch to work.
-I do not maintain these but I will take pull requests to update them.
-<br>
-<a href=https://gist.github.com/toniz4/41d168719e22bf7bc4ecff09d424b7d2>dwmblocks-statuscmd-20200717-941f415.diff</a>
+This build has Statuscmd integration
